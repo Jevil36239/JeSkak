@@ -23,7 +23,7 @@ Gua: Lu Save lah Setan Pencet CTRL+X terus Namain Filelu
 Lu : Terus?
 Gua: Lu Jalanin Lah Setan Toolnya Anjerr Dengan Kommand
 
-python2 exploit.py NAMAWEBTARGETLU.txt FILEDEFACELU.txt
+python2 exploit.py NAMAWEBTARGETLU.go.id FILEDEFACELU.txt
 
 Contoh :
 
